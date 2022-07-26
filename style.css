@@ -1,0 +1,12 @@
+html,body{
+    height: 150%;
+    width: 150%;   
+}
+a[href="https://www.youtube.com/"],[href="https://validator.w3.org/"],[href="#"][href="#"][href="#"][href="#"]
+{
+  color:red;
+}
+p[Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, accusamus.]
+{
+    font-size: 24px;
+}
