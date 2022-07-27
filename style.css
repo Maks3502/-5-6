@@ -6,7 +6,9 @@ a[href="https://www.youtube.com/"],[href="https://validator.w3.org/"]
 {
   color:red;
 }
-p ~ ul[Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, accusamus.]
-{
-    font-size: 24px;
+p:first-of-type {
+  font-size: 24px; 
+}
+p:last-of-type {
+  font-size: 24px; 
 }
