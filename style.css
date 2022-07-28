@@ -6,9 +6,7 @@ a[href="https://www.youtube.com/"],[href="https://validator.w3.org/"]
 {
   color:red;
 }
-p:first-of-type {
-  font-size: 24px; 
-}
-p:last-of-type {
-  font-size: 24px; 
+
+ul+p{
+  font-size: 24px;
 }
